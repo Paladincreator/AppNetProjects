@@ -1,2 +1,2 @@
 # AppNetStartUpProject
-StartUp
+Здесь будет описание проекта
