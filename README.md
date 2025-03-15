@@ -1,2 +1,2 @@
-# AppNetStartUpProject
+# AppNetProjects
 Здесь будет описание проекта
